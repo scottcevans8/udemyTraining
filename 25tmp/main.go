@@ -1,2 +1,2 @@
-// copyright 2017
+// copyright Scott Evans 2017
 package main
